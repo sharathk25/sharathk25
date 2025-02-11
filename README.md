@@ -1,4 +1,4 @@
-## Hi there whats going  👋
+## Hi there whats going   👋
 
 <!--
 **sharathk25/sharathk25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
